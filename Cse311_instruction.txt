@@ -1,0 +1,14 @@
+open xammp
+activate apache and Mysql
+
+put cse_311 file inside (c drive// xammp//htdocs)
+
+open browser
+
+localhost/phpmyadmin
+import : hospital_management_system.sql  
+
+
+localhost/cse311_project/HOME_PAGHE.php
+to access the Home page
+
